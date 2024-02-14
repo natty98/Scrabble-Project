@@ -10,3 +10,6 @@ How it works:
 - List them out for the player to see(e.g FIR, FIRST, FAD,FITS, FIT etc.)(modification for the addition of scores as well)
 - Player then chooses which words to use from the ptions that they want to use. THE END.
 
+What is needed:
+- Values for each letter
+
